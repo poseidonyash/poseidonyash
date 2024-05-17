@@ -4,7 +4,7 @@
 - ⚡ Fun fact: I am a lucid dreamer
   
 <div align="center">
-    <img src="https://raw.githubusercontent.com/poseidonyash/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://raw.githubusercontent.com/poseidonyash/poseidonyash/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 
 <div align="center">
