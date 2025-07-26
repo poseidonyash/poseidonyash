@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yash, a second year student at the University of Kansas.
-- 👀 I am double majoring in Math and Applied Computing
+- 👀 I am double majoring in Math and Economics
 <!--- 🌱 I aspire to be a quant --->
 <!---
 - ⚡ Fun fact: I am a lucid dreamer
