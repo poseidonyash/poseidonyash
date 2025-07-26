@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Yash, a second year student at the University of Kansas.
 - 👀 I am double majoring in Math and Applied Computing
-- 🌱 I aspire to be a quant
+<!--- 🌱 I aspire to be a quant --->
 <!---
 - ⚡ Fun fact: I am a lucid dreamer
-  
+--->
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/poseidonyash/poseidonyash/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
@@ -15,4 +16,3 @@
 
 poseidonyash/poseidonyash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
